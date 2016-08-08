@@ -1,0 +1,28 @@
+name: SaveTukadPetanu
+favicon: null
+layout_spectrum: 0.17415297077968717
+typography_spectrum: 0.006497221067547798
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9722116158809513
+  lightness: 0.740489776013419
+  saturation: 0.09509519604034722
+  rhythmicContrast: 0.7264388946350664
+purpose: []
